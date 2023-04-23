@@ -68,7 +68,7 @@ fun StopWatchDisplay(
                             } else {
                                 Color(201, 79, 79)
                             }
-                            )
+                    )
                 ),
                 elevation = ButtonDefaults.elevation(
                     focusedElevation = 10.dp,
